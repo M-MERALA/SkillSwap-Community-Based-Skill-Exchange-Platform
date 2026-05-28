@@ -81,67 +81,67 @@ Users can:
 # 📸 Screenshots
 
 ## Screen 0
-![](screenshots/screen0.png)
+![](screen 0.png)
 
 ## Screen 1
-![](screenshots/screen1.png)
+![](screen 1.png)
 
 ## Screen 2
-![](screenshots/screen2.png)
+![](screen 2.png)
 
 ## Screen 3
-![](screenshots/screen3.png)
+![](screen 3.png)
 
 ## Screen 4
-![](screenshots/screen4.png)
+![](screen 4.png)
 
 ## Screen 5
-![](screenshots/screen5.png)
+![](screen 5.png)
 
 ## Screen 6
-![](screenshots/screen6.png)
+![](screen 6.png)
 
 ## Screen 7
-![](screenshots/screen7.png)
+![](screen 7.png)
 
 ## Screen 8
-![](screenshots/screen8.png)
+![](screen 8.png)
 
 ## Screen 9
-![](screenshots/screen9.png)
+![](screen 9.png)
 
 ## Screen 10
-![](screenshots/screen10.png)
+![](screen 10.png)
 
 ## Screen 11
-![](screenshots/screen11.png)
+![](screen 11.png)
 
 ## Screen 12
-![](screenshots/screen12.png)
+![](screen 12.png)
 
 ## Screen 13
-![](screenshots/screen13.png)
+![](screen 13.png)
 
 ## Screen 14
-![](screenshots/screen14.png)
+![](screen 14.png)
 
 ## Screen 15
-![](screenshots/screen15.png)
+![](screen 15.png)
 
 ## Screen 16
-![](screenshots/screen16.png)
+![](screen 16.png)
 
 ## Screen 17
-![](screenshots/screen17.png)
+![](screen 17.png)
 
 ## Screen 18
-![](screenshots/screen18.png)
+![](screen 18.png)
 
 ## Screen 19
-![](screenshots/screen19.png)
+![](screen 19.png)
 
 ## Screen 20
-![](screenshots/screen20.png)
+![](screen 20.png)
 
 ---
 
